@@ -1,0 +1,22 @@
+a:hover{
+ color: red;
+}
+
+header{
+  text-align: center;
+}
+
+section p{
+  text-align: center;
+}
+
+section{
+  align-items: center;
+  text-align: center;
+}
+
+
+footer .foo{
+  text-align: center;
+  align-content: end;
+}
